@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif)
 <h1 align="center">Hi 👋, I'm Neminath S</h1>
-<h3 align="center">A passionate About Cyber Security</h3>
+<h3 align="center">Iam passionate About Cyber Security</h3>
 <img width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4b3ef872381931.5be5469c19d13.gif" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemimj&label=Profile%20views&color=0e75b6&style=flat" alt="nemimj" /> </p>
 
